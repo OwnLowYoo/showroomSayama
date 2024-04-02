@@ -1,0 +1,14 @@
+{
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/admin-view/page": "app/admin-view/page.js",
+  "/checkout/page": "app/checkout/page.js",
+  "/admin-view/all-products/page": "app/admin-view/all-products/page.js",
+  "/admin-view/add-product/page": "app/admin-view/add-product/page.js",
+  "/api/stripe/route": "app/api/stripe/route.js",
+  "/api/admin/all-products/route": "app/api/admin/all-products/route.js",
+  "/api/admin/add-product/route": "app/api/admin/add-product/route.js",
+  "/api/admin/delete-product/route": "app/api/admin/delete-product/route.js",
+  "/api/cart/all-cart-items/route": "app/api/cart/all-cart-items/route.js",
+  "/api/address/get-all-address/route": "app/api/address/get-all-address/route.js"
+}
